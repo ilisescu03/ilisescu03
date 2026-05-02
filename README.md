@@ -5,9 +5,7 @@ I am a Romanian software developer with a strong interest in game development an
 
 ## [ilisescuadrian.dev](https://ilisescuadrian.dev/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilisescu03&layout=compact&theme=radical&hide=shaderlab,hlsl)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ilisescu03&theme=radical)](https://git.io/streak-stats)
 
 
 <!--
