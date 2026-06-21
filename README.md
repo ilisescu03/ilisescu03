@@ -5,7 +5,10 @@ I am a Romanian software developer with a strong interest in game development an
 
 ## [ilisescuadrian.dev](https://ilisescuadrian.dev/)
 
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilisescu03&layout=compact&theme=tokyonight&hide=wolfram%20language,shaderlab,html,hlsl" alt="Most Used Languages" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ilisescu03&show_icons=true&theme=tokyonight" alt="Adrian's GitHub Stats" height="200" />
+</p>
 
 
 <!--
